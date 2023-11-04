@@ -1,0 +1,122 @@
+.o{width: 100%;
+    background-color: rgb(252, 252, 252);
+    height: 20px;
+    padding: 30px 0px;
+    }
+    body {
+        background-color: rgb(227, 227, 227);
+        margin: 0cm;
+    }
+    .oo {
+        float: left;
+        background-image: url(logo.jpg);
+        width: 250px;
+        height: 100px;
+        padding-left: 20px;
+    }
+    .ooo{float: right;
+        font-weight: bold;
+        padding-right: 20px;
+    }
+    .oooo{float: right;
+        padding-right: 20px;}
+        .a{width: 100%;
+            background-color: rgb(217, 144, 81);
+            height: 50px;
+            padding: 30px 0px;
+            }
+            .aa {
+                float: left;
+               
+                padding-left: 20px;
+            }
+         
+            
+            .aaa{float: left;
+                
+                padding-left: 20px;
+            }
+            .aaaa{float: left;
+                font-weight: bold;
+                padding-left: 20px;
+            font-size: 30px;}
+                .q{
+                    width: 170px;
+                    height: 90px;
+                }
+                .aaaaa{
+                    float: left;
+                    padding-left: 20px;
+                }
+                .aaaaaa{
+                    color: rgb(0, 0, 0);
+                   
+                }
+                .w{
+                    width: 100%;
+            background-color: rgb(215, 136, 67);
+            height: 150px;
+            padding: 50px 0px;
+                }
+                .tt{ 
+                    float: left;
+                    padding-left: 100px;
+                    width: 200px;
+                }
+                .ttt{ 
+                    float: left;
+                    padding-left: 200px;
+                    width: 300px;
+                }
+                .tttt{ 
+                    float: left;
+                    padding-left: 200px;
+                    width: 350px;
+                }
+                .r{
+                    width: 30px;
+                    height: 30px;
+                    float: left;
+                }
+                .www{width: 145px;
+                    padding-top: 20px;
+                }
+                .t{
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+                .wwww{
+                    font-weight: bold;
+                }
+                .wwwww{
+                    padding-top: 20px;
+                    width: 270px;
+                }
+                .wwwwww{
+                    padding-top: 20px;
+                }
+                .wwwwwww{
+                    font-weight: bold;
+                }
+                .ww{
+                    padding-top: 20px;
+                    font-weight: bold;
+                }
+                .rr{
+                    color: rgb(142, 72, 2);
+                }
+                .rrr{ padding-top: 20px;}
+                .r{padding-left: 15px;}
+                .d{
+                    background-color: aliceblue;
+                }
+                .dd{
+                    background-image: url(111.jpg);
+                    width: 1512px;
+                    height: 700px;
+                }
+                .ff{
+                    background-image: url(8.jpg);
+                    width: 1512px;
+                    height: 1126px;
+                }
